@@ -2,8 +2,14 @@
 Please Read README.md before downloading commands/events
 [![----------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](#Important)
 # ❓Support
-If you need support with this you can see all the iformation on the (https://github.com/CyberDudeJ/-modmail-dbb/wiki)[wiki]
+If you need support with this you can see all the information on the wiki.
 [![----------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](#Important)
-# 👨‍💻Credit
-* SuperNova {creator}
-* Ydupc {AKA CyberDudeJ} Contributor
+# 👨‍💻Credits
+* CyberDudeJ
+* SuperNova3339
+[![----------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](#Important)
+# ℹ️
+Bot Version: 0.0.0
+Created on DBB version: ___
+Made For: Discord
+Can host on own computer? Yes, Needs Node.js
