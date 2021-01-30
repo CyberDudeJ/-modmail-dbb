@@ -1,12 +1,12 @@
 # Simple ModMail bot made in Discord Bot Builder.
-Please Read README.md before downloading commands/events
+Please Read README.md before downloading 
 [![----------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](#Important)
 # ❓Support
 If you need support with this you can see all the information on the wiki.
 [![----------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](#Important)
 # 👨‍💻Credits
 * CyberDudeJ
-* SuperNova3339
+* Supernova3339
 
 [![----------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](#Important)
 # ℹ️ Bot Information
@@ -16,4 +16,4 @@ Created on DBB version: ___
 ###
 Made For: Discord
 ###
-Can host on own computer? Yes, Needs Node.js
+Can you host on own computer? Yes, Just download self-host for windows in #releases
