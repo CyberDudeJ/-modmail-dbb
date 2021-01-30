@@ -1,0 +1,223 @@
+{
+  "info": {
+    "title": "Help Command",
+    "description": "",
+    "thumbnail": ""
+  },
+  "blocks": [
+    {
+      "name": "command_event",
+      "info": {
+        "x": 377,
+        "y": 60,
+        "z": 1,
+        "color": "#5a5a5a",
+        "height": 266.4,
+        "width": 758
+      },
+      "inputs": {
+        "command_name": "rx1nAPH8dy",
+        "custom_prefix": "3p3Nq8EDoR",
+        "command_slowmode": "bf1CIJ0q5F"
+      },
+      "options": {
+        "command_restriction": "none",
+        "required_member_permission": "none",
+        "case_sensitive": "no",
+        "command_slowmode_restriction": "none"
+      },
+      "outputs": {
+        "action1": [
+          "TBFk7iqOiD"
+        ],
+        "action2": [],
+        "message": [],
+        "channel": [
+          "kuB5pjoo59"
+        ],
+        "user": [],
+        "error_message": []
+      }
+    },
+    {
+      "name": "text",
+      "info": {
+        "x": 13,
+        "y": 51,
+        "z": 2,
+        "color": "#5a5a5a",
+        "height": 120,
+        "width": 305
+      },
+      "options": {
+        "text": "help"
+      },
+      "outputs": {
+        "text": [
+          "rx1nAPH8dy"
+        ]
+      },
+      "inputs": {}
+    },
+    {
+      "name": "create_embed_message",
+      "info": {
+        "x": 1521,
+        "y": 150,
+        "z": 3,
+        "color": "#5a5a5a",
+        "height": 527.2,
+        "width": 340
+      },
+      "inputs": {
+        "action": "TBFk7iqOiD",
+        "color": "86WikbBW85",
+        "thumbnail": "9vWdXj5ULu",
+        "author_icon": "6Jg2P2wpdC",
+        "author_name": "oj0p6smTYM",
+        "author_url": "9yStzcGRgl",
+        "title": "32QRsht3Zh",
+        "url": "u6UL6GDOG0",
+        "description": "jc6lyOq79x",
+        "image": "avSdLa8s9d",
+        "footer_icon": "Cv2RnTDjmx",
+        "footer_text": "9dAh08MiSG",
+        "timestamp": "RdcpNHDr2L"
+      },
+      "outputs": {
+        "action": [
+          "V4DSjTRsel"
+        ],
+        "message_embed": [
+          "RF1iujvCwi"
+        ]
+      },
+      "options": {}
+    },
+    {
+      "name": "color",
+      "info": {
+        "x": 1166,
+        "y": 208,
+        "z": 4,
+        "color": "#5a5a5a",
+        "height": 106.4,
+        "width": 192
+      },
+      "options": {
+        "color": "#0080ff"
+      },
+      "outputs": {
+        "color": [
+          "86WikbBW85"
+        ]
+      },
+      "inputs": {}
+    },
+    {
+      "name": "text",
+      "info": {
+        "x": 1152,
+        "y": 346,
+        "z": 5,
+        "color": "#5a5a5a",
+        "height": 120,
+        "width": 305
+      },
+      "options": {
+        "text": "Help"
+      },
+      "outputs": {
+        "text": [
+          "32QRsht3Zh"
+        ]
+      },
+      "inputs": {}
+    },
+    {
+      "name": "text",
+      "info": {
+        "x": 578,
+        "y": 458,
+        "z": 6,
+        "color": "#5a5a5a",
+        "height": 668,
+        "width": 704
+      },
+      "options": {
+        "text": "Commands here\n\n\n\n\n===========\n:warning: **``Any issues with the bot or have suggestions?``**\nPlease look at the [github](https://github.com/CyberDudeJ/-modmail-dbb) page."
+      },
+      "outputs": {
+        "text": [
+          "jc6lyOq79x"
+        ]
+      },
+      "inputs": {}
+    },
+    {
+      "name": "text",
+      "info": {
+        "x": 1433,
+        "y": 801,
+        "z": 7,
+        "color": "#5a5a5a",
+        "height": 120,
+        "width": 305
+      },
+      "options": {
+        "text": "(C) Your Name Here"
+      },
+      "outputs": {
+        "text": [
+          "9dAh08MiSG"
+        ]
+      },
+      "inputs": {}
+    },
+    {
+      "name": "boolean",
+      "info": {
+        "x": 1814,
+        "y": 782,
+        "z": 8,
+        "color": "#5a5a5a",
+        "height": 105.6,
+        "width": 267
+      },
+      "options": {
+        "boolean_type": "true"
+      },
+      "outputs": {
+        "boolean": [
+          "RdcpNHDr2L"
+        ]
+      },
+      "inputs": {}
+    },
+    {
+      "name": "send_message",
+      "info": {
+        "x": 1984,
+        "y": 447,
+        "z": 9,
+        "color": "#5a5a5a",
+        "height": 241.6,
+        "width": 280
+      },
+      "inputs": {
+        "action": "V4DSjTRsel",
+        "channel": "kuB5pjoo59",
+        "text": "ZxoEjYgJMS",
+        "embed": "RF1iujvCwi",
+        "attachment": "rYJJLim2sb",
+        "split_message": "fZumbSziT7"
+      },
+      "outputs": {
+        "action": [],
+        "message": []
+      },
+      "options": {}
+    }
+  ],
+  "notes": []
+}
