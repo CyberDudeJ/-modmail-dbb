@@ -7,6 +7,7 @@ If you need support with this you can see all the information on the wiki.
 # 👨‍💻Credits
 * CyberDudeJ
 * SuperNova3339
+
 [![----------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](#Important)
 # ℹ️
 Bot Version: 0.0.0
