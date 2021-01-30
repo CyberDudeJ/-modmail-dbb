@@ -1,0 +1,1 @@
+Here will be the developer's placing of all the commands and events. The full bot will be open for download with the Start.bat and all the modded blocks in the releases too.
